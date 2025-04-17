@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="ページ1" id="11xoch5y3auXTnioq7Vi">
-    <mxGraphModel dx="754" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,37 @@
         <mxCell id="q60uPoQntTXIX4yxtWZt-1" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q60uPoQntTXIX4yxtWZt-2" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q60uPoQntTXIX4yxtWZt-2" value="バトル" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q60uPoQntTXIX4yxtWZt-3" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q60uPoQntTXIX4yxtWZt-3" value="システム" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q60uPoQntTXIX4yxtWZt-5" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q60uPoQntTXIX4yxtWZt-5" value="シナリオ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q60uPoQntTXIX4yxtWZt-6" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q60uPoQntTXIX4yxtWZt-6" value="画面詳細&lt;br&gt;シーン" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q60uPoQntTXIX4yxtWZt-7" value="キャラ　" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q60uPoQntTXIX4yxtWZt-7" value="マップ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q60uPoQntTXIX4yxtWZt-9" value="音楽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q60uPoQntTXIX4yxtWZt-10" value="演出、褒美" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q60uPoQntTXIX4yxtWZt-11" value="マーケティング" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q60uPoQntTXIX4yxtWZt-12" value="画面遷移" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="380" width="340" height="320" as="geometry">
+            <mxRectangle x="-120" y="380" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q60uPoQntTXIX4yxtWZt-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;キャラ　&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q60uPoQntTXIX4yxtWZt-12">
+          <mxGeometry x="40" y="60" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
